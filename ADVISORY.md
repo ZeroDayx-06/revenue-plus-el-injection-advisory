@@ -20,7 +20,8 @@ the application-server process.
 - **Affected component:** `POST /rp/manageUser` endpoint (`manageUsersAction`,
   user-administration module); injection occurs through the request **parameter name**
 - **Attack vector:** Network; authentication required (any session able to reach `manageUsersAction`)
-- **CVSS v3.1:** 8.8 (High) — `AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H`
+- **Severity:** Critical
+- **CVSS v3.1:** 9.9 (Critical) — `AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H`
 - **Status:** Unsupported When Assigned — product past end of support
   (standard support ended 2022-10-31, extended support ended 2023-10-31)
 
@@ -81,11 +82,8 @@ No patch is available; the product is end-of-life. Operators should:
 
 ## Timeline
 
-> Dates reconstructed from the disclosure deadline; replace with the exact dates
-> from your own correspondence.
-
-- 2026-07-27 — Reported to VulnCheck (CNA)
-- 2026-07-27 — VulnCheck initiated vendor outreach
+- 2026-07-23 — Vulnerability reported to the vendor (Comviva); request for a security contact
+- 2026-07-24 — Reported to VulnCheck (CNA); vendor coordination initiated
 - 2026-11-24 — 120-day coordinated-disclosure deadline reached, no vendor response
 - 2026-11-25 — Public disclosure
 

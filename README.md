@@ -11,7 +11,8 @@ Management family), discovered during an authorized security assessment.
 | **Vendor** | Comviva Technologies Ltd (Mahindra Comviva) |
 | **Product** | Revenue Plus 3.0.0 |
 | **Type** | CWE-917 (EL Injection) → CWE-94 (Code Injection) / RCE |
-| **CVSS v3.1** | 8.8 (High) |
+| **Severity** | Critical |
+| **CVSS v3.1** | 9.9 (Critical) — `AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H` |
 | **Status** | End-of-life, no patch available |
 | **CNA** | VulnCheck |
 
