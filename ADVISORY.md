@@ -82,8 +82,8 @@ No patch is available; the product is end-of-life. Operators should:
 
 ## Timeline
 
-- 2026-07-23 — Vulnerability reported to the vendor (Comviva); request for a security contact
-- 2026-07-24 — Reported to VulnCheck (CNA); vendor coordination initiated
+- 2026-07-24 — Reported to VulnCheck (CNA)
+- 2026-07-27 — VulnCheck initiated vendor outreach
 - 2026-11-24 — 120-day coordinated-disclosure deadline reached, no vendor response
 - 2026-11-25 — Public disclosure
 
